@@ -7,9 +7,9 @@ A full-stack AI-powered web application that generates intelligent email replies
 🛠️ Tech Stack:
 ----------------------------------------------------
 Frontend  : React.js (Vite)  
-Backend   : Spring Boot
-Database  : MySQL
-API       : Gemini API 
+Backend   : Spring Boot        
+Database  : MySQL              
+API       : Gemini API          
 Tools     : Postman (API Testing)  
 Deployment: Netlify
 
