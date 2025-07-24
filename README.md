@@ -1,7 +1,5 @@
 
-====================================================
 📧 Email Reply Generator
-====================================================
 
 A full-stack AI-powered web application that generates intelligent email replies based on user input and selected tone using the Gemini API.
 
